@@ -1,22 +1,19 @@
+.img{
+  width: 137px;
+  border-color: black;
+}
 
-.mario{
-  width: 200px;
+.pai{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+header{
   
-
-}
-
-.harry{
-  width: 200px;
-}
-
-.mulan{
-  width: 200px;
-}
-
-.marley{
-  width: 200px;
 }
 
 body{
+  background-color: black;
 
 }
